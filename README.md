@@ -14,7 +14,7 @@ India is currently witnessing its 2nd wave as on 21st April thus daily new cases
 <img src="https://github.com/siddarth99/Covid-19_data_visualisation/blob/main/Graphs/daily_new_cases_india.png">
 <img src="https://github.com/siddarth99/Covid-19_data_visualisation/blob/main/Graphs/total_vaccination_india.png">
 
-## Data from the next 2 countries suggest as Vaccinations have increased, New Cases and Deaths have fallen drastically. Thus highlighting the imporatance of Vaccines in fighting Covid-19 and its variants.
+## Data from the next 2 countries suggest as Vaccinations have increased, New Cases and Deaths have fallen drastically. Thus highlighting the importance of Vaccines in fighting Covid-19 and its variants.
 ### 3) USA
 <img src="https://github.com/siddarth99/Covid-19_data_visualisation/blob/main/Graphs/Daily_cases_USA.png">
 <img src="https://github.com/siddarth99/Covid-19_data_visualisation/blob/main/Graphs/Daily_new_deaths_USA.png">
